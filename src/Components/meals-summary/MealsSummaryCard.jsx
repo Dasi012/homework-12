@@ -19,10 +19,10 @@ export const MealsSummaryCard = () => {
   );
 };
 const DivMealsSummCard = styled.div`
+  position: relative;
+  bottom: 150px;
   display: flex;
   justify-content: center;
-  margin-top: -190px;
-
 `;
 const ContainerMealsSummaryCard = styled.div`
   width: 854px;

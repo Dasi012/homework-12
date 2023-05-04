@@ -11,4 +11,7 @@ export const MealsSummary = () => {
 };
 const ImgMeals = styled.img`
   width: 100%;
+  height: 550px;
+  margin-top: 10px;
+  padding: 0px 5px;
 `;

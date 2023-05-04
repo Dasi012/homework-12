@@ -22,6 +22,7 @@ const BtnCartHeader = styled.button`
   align-items: center;
   transition: 0.2s;
   padding: 0 22px;
+  
   &:hover {
     background-color: #4d1601;
   }
